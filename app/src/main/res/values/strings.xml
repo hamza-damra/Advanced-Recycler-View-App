@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Recycler View Full App Practice</string>
+    <string name="todo">TODO</string>
+    <string name="login">Login</string>
+    <string name="are_you_new_user_register">Are you new user? Register</string>
+    <string name="finding_the_perfect_nonline_corse_for_you">Finding the Perfect \nOnline Corse For You</string>
+    <string name="searching">Searching</string>
+    <string name="gaming">Gaming</string>
+    <string name="popular_courses">Popular Courses</string>
+    <string name="see_all">See All</string>
+    <string name="coding">Coding</string>
+    <string name="creative">Creative</string>
+    <string name="business">Business</string>
+    <string name="category">Category</string>
+    <string name="buy_now">BUY NOW</string>
+    <string name="what_would_you_like_n_to_learn_today">What would you like\n to learn today</string>
+    <string name="_1">1</string>
+</resources>
